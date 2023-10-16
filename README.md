@@ -8,4 +8,4 @@ I have used React so that the code for each sections of the page could be compar
 2. 8 Section components,
 3. and a Footer component.
 
-I have used only CSS for styling. The assets are fetched directly from the paytm CDN link. The landing page is deployed on Netlify. To visit the site, please click **[here &nearr;](https://paytm-lading-page.netlify.app/)**.
+I have used only CSS for styling.
